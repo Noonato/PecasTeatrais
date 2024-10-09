@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Jogadores Teatrais é uma aplicação ASP.NET Core desenvolvida para gerenciar faturas de uma companhia de teatro. A aplicação permite a geração de extratos de faturas para os clientes, levando em conta múltiplas apresentações teatrais contratadas, com cálculos baseados no número de linhas de cada peça, tamanho da plateia, e o gênero da peça (atualmente, tragédia, comédia, e história).
+Peças Teatrais é uma aplicação ASP.NET Core desenvolvida para gerenciar faturas de uma companhia de teatro. A aplicação permite a geração de extratos de faturas para os clientes, levando em conta múltiplas apresentações teatrais contratadas, com cálculos baseados no número de linhas de cada peça, tamanho da plateia, e o gênero da peça (atualmente, tragédia, comédia, e história).
 
 ## Tecnologias Utilizadas
 
