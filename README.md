@@ -1,4 +1,4 @@
-# Jogadores Teatrais
+# Peças Teatrais
 
 ## Descrição do Projeto
 
